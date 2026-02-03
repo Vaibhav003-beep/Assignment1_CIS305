@@ -1,0 +1,9 @@
+=== Boot Time Measurement ===
+
+Testing with WHPX (Hardware Acceleration)...
+WHPX Boot Time: 21 seconds
+
+Testing with TCG (Software Emulation)...
+TCG Boot Time: 42 seconds
+
+=== Measurement Complete ===

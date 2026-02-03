@@ -1,0 +1,12 @@
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.0GB) copied, 0.942981 seconds, 1.1GB/s
+
+=== WHPX (Hardware Acceleration) Complete ===
+
+
+=== TCG (Software Emulation) ===
+
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.0GB) copied, 1.713299 seconds, 597.7MB/s
